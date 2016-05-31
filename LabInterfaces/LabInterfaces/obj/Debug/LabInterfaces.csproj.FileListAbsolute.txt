@@ -1,0 +1,25 @@
+C:\Users\B31003\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.exe.config
+C:\Users\B31003\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\B31003\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.AgregarEstudiante.resources
+C:\Users\B31003\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.ListaEstudiantes.resources
+C:\Users\B31003\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.Properties.Resources.resources
+C:\Users\B31003\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.csproj.GenerateResource.Cache
+C:\Users\B31003\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.exe
+C:\Users\B31003\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.pdb
+C:\Users\B31003\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.exe
+C:\Users\B31003\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.pdb
+C:\Users\B31003\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.EliminarEstudiante.resources
+C:\Users\Gaudy-PC\UCR\2016 I Ciclo\Asistencias\Bases I\LabInterfaces\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.exe.config
+C:\Users\Gaudy-PC\UCR\2016 I Ciclo\Asistencias\Bases I\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.exe
+C:\Users\Gaudy-PC\UCR\2016 I Ciclo\Asistencias\Bases I\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.pdb
+C:\Users\Gaudy-PC\UCR\2016 I Ciclo\Asistencias\Bases I\LabInterfaces\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.exe
+C:\Users\Gaudy-PC\UCR\2016 I Ciclo\Asistencias\Bases I\LabInterfaces\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.pdb
+C:\Users\Gaudy-PC\UCR\2016 I Ciclo\Asistencias\Bases I\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Gaudy-PC\UCR\2016 I Ciclo\Asistencias\Bases I\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.AgregarEstudiante.resources
+C:\Users\Gaudy-PC\UCR\2016 I Ciclo\Asistencias\Bases I\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.EliminarEstudiante.resources
+C:\Users\Gaudy-PC\UCR\2016 I Ciclo\Asistencias\Bases I\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.ListaEstudiantes.resources
+C:\Users\Gaudy-PC\UCR\2016 I Ciclo\Asistencias\Bases I\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.Properties.Resources.resources
+C:\Users\Gaudy-PC\UCR\2016 I Ciclo\Asistencias\Bases I\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.csproj.GenerateResource.Cache
+C:\Users\gblanco\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.exe.config
+C:\Users\gblanco\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.exe
+C:\Users\gblanco\Desktop\LabInterfaces\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.pdb

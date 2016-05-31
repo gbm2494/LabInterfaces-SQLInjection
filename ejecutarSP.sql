@@ -1,0 +1,1 @@
+EXEC eliminarEstudiante @nombre = '115650402'
