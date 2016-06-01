@@ -161,6 +161,7 @@
             this.txtDireccion.Name = "txtDireccion";
             this.txtDireccion.Size = new System.Drawing.Size(155, 22);
             this.txtDireccion.TabIndex = 6;
+            this.txtDireccion.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtDireccion_KeyPress);
             // 
             // label7
             // 
@@ -238,9 +239,11 @@
             // txtCedula
             // 
             this.txtCedula.Location = new System.Drawing.Point(116, 24);
+            this.txtCedula.MaxLength = 9;
             this.txtCedula.Name = "txtCedula";
             this.txtCedula.Size = new System.Drawing.Size(155, 22);
             this.txtCedula.TabIndex = 1;
+            this.txtCedula.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtCedula_KeyPress);
             // 
             // label6
             // 

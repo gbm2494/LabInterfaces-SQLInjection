@@ -51,3 +51,7 @@ Select * from Persona where nombre= 'Ga'; DROP TABLE Persona--'
 Select * from Persona;
 
 /*Vuelva a ejecutar el script para crear la tabla Persona e insertar las tuplas*/
+
+/*Ejercicio 7: validar interfaz en ejercicio de interfaces*/
+/*Probar el delete y drop en el filtro general de la interfaz*/
+
