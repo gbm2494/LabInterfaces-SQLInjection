@@ -34,3 +34,14 @@ C:\Users\B31003\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\o
 C:\Users\B31003\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.ListaEstudiantes.resources
 C:\Users\B31003\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.Properties.Resources.resources
 C:\Users\B31003\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.csproj.GenerateResource.Cache
+C:\Users\gblanco\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.exe.config
+C:\Users\gblanco\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.exe
+C:\Users\gblanco\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.pdb
+C:\Users\gblanco\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.exe
+C:\Users\gblanco\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\bin\Debug\LabInterfaces.pdb
+C:\Users\gblanco\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\gblanco\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.AgregarEstudiante.resources
+C:\Users\gblanco\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.EliminarEstudiante.resources
+C:\Users\gblanco\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.ListaEstudiantes.resources
+C:\Users\gblanco\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.Properties.Resources.resources
+C:\Users\gblanco\Desktop\LabInterfaces-SQLInjection\LabInterfaces\LabInterfaces\obj\Debug\LabInterfaces.csproj.GenerateResource.Cache

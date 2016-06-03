@@ -14,7 +14,7 @@ namespace LabInterfaces
     class AccesoBaseDatos
     {
         /*En Initial Catalog se agrega la base de datos propia. Intregated Security es para utilizar Windows Authentication*/
-        String conexion = "Data Source=10.1.4.55; Initial Catalog=gaudyblanco; Integrated Security=SSPI";
+        String conexion = "Data Source=RABAT; Initial Catalog=gaudyblanco; Integrated Security=SSPI";
         
         /**
          * Constructor de la clase

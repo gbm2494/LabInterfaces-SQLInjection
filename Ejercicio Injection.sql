@@ -9,6 +9,7 @@ direccion varchar(100),
 telefono varchar(12),
 );
 
+USE gaudyblanco
 /*Insertar tuplas en la tabla Persona*/
 INSERT INTO Persona (Cedula,nombre,apellido1,apellido2,sexo,direccion,telefono)
 VALUES('123456789','Luis','Perez','Ramirez','M','San José','88888888')
